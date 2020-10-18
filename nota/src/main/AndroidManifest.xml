@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ar.edu.unlam.nota">
+
+    <application>
+
+        <activity android:name=".ui.NotaActivity"/>
+
+    </application>
+
+
+</manifest>
