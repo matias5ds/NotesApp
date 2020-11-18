@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">NotesApp</string>
+    <string name="todo">TODO</string>
+    <string name="editar">EDITAR</string>
+    <string name="description_new_note">Escriba su Nota</string>
+    <string name="App_Name">Notes App</string>
+    <string name="title_note">Titulo</string>
+    <string name="Guardar">GUARDAR</string>
+    <string name="elegir_imagen">SELECCIONE IMAGEN</string>
+    <string name="borrar">BORRAR</string>
 </resources>
